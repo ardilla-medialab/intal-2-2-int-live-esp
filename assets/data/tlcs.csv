@@ -1,0 +1,69 @@
+source,target,row,col,trade_agreement,year,active
+Argentina,China,1,30,MERCOSUR - China,2017,
+Argentina,Corea,2,30,Southern Common Market (MERCOSUR) - Corea,2018,
+Argentina,India,4,30,Southern Common Market (MERCOSUR) - India,2009,*
+Argentina,Singapore,9,30,MERCOSUR - Singapore,2018,
+Brazil,China,1,29,MERCOSUR - China,2017,
+Brazil,Corea,2,29,Southern Common Market (MERCOSUR) - Corea,2018,
+Brazil,India,4,29,Southern Common Market (MERCOSUR) - India,2009,*
+Brazil,Singapore,9,29,MERCOSUR - Singapore,2018,
+Chile,Brunei,0,28,Trans-Pacific Strategic Economic Partnership (P4),2006,*
+Chile,China,1,28,Chile - China,2006,*
+Chile,Corea,2,28,Chile -Corea,2004,*
+Chile,Hong Kong,3,28,Hong Kong - Chile,2014,*
+Chile,India,4,28,Chile - India,2007,*
+Chile,Indonesia,5,28,Chile - Indonesia,2017,
+Chile,Japan,6,28,Chile - Japan,2007,*
+Chile,Malaysia,7,28,Chile - Malaysia,2012,*
+Chile,Philippines,8,28,Chile - Philippines,2015,
+Chile,Singapore,9,28,Trans-Pacific Strategic Economic Partnership (P4),2006,*
+Chile,Thailand,11,28,Chile - Thailand,2015,*
+Chile,Vietnam,12,28,Chile - Viet Nam,2014,*
+Colombia,China,1,27,Colombia - China,2012,
+Colombia,Corea,2,27,Corea - Colombia,2016,*
+Colombia,India,4,27,Colombia -India,2004,
+Colombia,Japan,6,27,Colombia - Japan,2012,
+Costa Rica,China,1,26,China - Costa Rica,2011,*
+Costa Rica,Corea,2,26,"Costa Rica, El Salvador, Honduras, Nicaragua y Panamá (Centroamérica) - Corea",2018,
+Costa Rica,Singapore,9,26,Costa Rica - Singapore,2013,*
+Dominican Republic,Taipei China,10,25,Dominican Republic - Taipei China,2006,
+Ecuador,India,4,24,Ecuador - India,2017,
+El Salvador,Corea,2,23,"Costa Rica, El Salvador, Honduras, Nicaragua y Panamá (Centroamérica) - Corea",2018,
+El Salvador,Taipei China,10,23,El Salvador- Honduras - Taipei China,2008,*
+Guatemala,Taipei China,10,22,Guatemala - Taipei China,2006,*
+Honduras,Corea,2,21,"Costa Rica, El Salvador, Honduras, Nicaragua y Panamá (Centroamérica) - Corea",2018,
+Honduras,Taipei China,10,21,El Salvador- Honduras - Taipei China,2008,*
+Mexico,Brunei,0,20,CPTPP,2018,*
+Mexico,China,1,20,Mexico - China,2017,
+Mexico,Corea,2,20,Mexico - Corea,2006,
+Mexico,Japan,6,20,Japan - Mexico,2005,*
+Mexico,Malaysia,7,20,CPTPP,2018,*
+Mexico,Philippines,8,20,Mexico - Philippines,2016,
+Mexico,Singapore,9,20,Mexico - Singapore,2000,
+Mexico,Vietnam,12,20,CPTPP,2018,*
+Nicaragua,Corea,2,19,"Costa Rica, El Salvador, Honduras, Nicaragua y Panamá (Centroamérica) - Corea",2018,
+Nicaragua,Taipei China,10,19,Nicaragua - Taipei China,2008,*
+Panama,China,1,18,China - Panama,2017,
+Panama,Corea,2,18,"Costa Rica, El Salvador, Honduras, Nicaragua y Panamá (Centroamérica) - Corea",2018,
+Panama,Singapore,9,18,Panama - Singapore,2006,*
+Panama,Taipei China,10,18,Panama - Taipei China,2004,*
+Paraguay,China,1,17,MERCOSUR - China,2017,
+Paraguay,Corea,2,17,Southern Common Market (MERCOSUR) - Corea,2018,
+Paraguay,India,4,17,Southern Common Market (MERCOSUR) - India,2009,*
+Paraguay,Singapore,9,17,MERCOSUR - Singapore,2018,
+Paraguay,Taipei China,10,17,Paraguay - Taipei China,2018,*
+Peru,Brunei,0,16,CPTPP,2018,*
+Peru,China,1,16,Peru - China,2010,*
+Peru,Corea,2,16,Peru - Corea,2011,*
+Peru,India,4,16,Peru - India,2016,
+Peru,Indonesia,5,16,Peru - Indonesia,2014,
+Peru,Japan,6,16,Peru - Japan,2012,*
+Peru,Malaysia,7,16,CPTPP,2018,*
+Peru,Singapore,9,16,Peru - Singapore,2009,*
+Peru,Thailand,11,16,Peru - Thailand,2011,*
+Peru,Vietnam,12,16,CPTPP,2018,*
+Uruguay,China,1,15,MERCOSUR - China,2017,
+Uruguay,Corea,2,15,Southern Common Market (MERCOSUR) - Corea,2018,
+Uruguay,India,4,15,Uruguay - India,2004,
+Uruguay,Singapore,9,15,MERCOSUR - Singapore,2018,
+Venezuela,India,4,14,Venezuela - India,2005,
